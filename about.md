@@ -1,6 +1,6 @@
 ---
 layout: article
-titles: About Me
+titles: About
   # @start locale config
   en      : &EN       About
   en-GB   : *EN
@@ -25,8 +25,6 @@ titles: About Me
   # @end locale config
 key: page-about
 ---
-
-## Who am I?
 
 A person.  
 A person born in Wuhan and grow up in Shanghai, China.  
