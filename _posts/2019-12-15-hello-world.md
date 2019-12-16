@@ -7,7 +7,7 @@ article_header:
     src: pic/me.jpeg
 ---
 
-Welcome aboard, someone behind the screen! Just wondering if the web page can be updated with "git push"
+Welcome aboard, someone behind the screen! 
 
 <!--more-->
 
