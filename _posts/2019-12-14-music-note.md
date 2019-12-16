@@ -44,15 +44,10 @@ resource：*Music Theory* by George Thaddeus Jones
 <a href="https://www.addtoany.com/share#url=https%3A%2F%2Fantinita.github.io%2F&amp;title=" target="_blank"><img src="https://static.addtoany.com/buttons/a2a.svg" width="32" height="32" style="background-color:royalblue"></a>
 <a href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fantinita.github.io%2F&amp;linkname=" target="_blank"><img src="https://static.addtoany.com/buttons/facebook.svg" width="32" height="32" style="background-color:royalblue"></a>
 <a href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fantinita.github.io%2F&amp;linkname=" target="_blank"><img src="https://static.addtoany.com/buttons/twitter.svg" width="32" height="32" style="background-color:royalblue"></a>
-<a href="https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fantinita.github.io%2F&amp;linkname=" target="_blank"><img src="https://static.addtoany.com/buttons/email.svg" width="32" height="32" style="background-color:royalblue"></a>
 <a href="https://www.addtoany.com/add_to/telegram?linkurl=https%3A%2F%2Fantinita.github.io%2F&amp;linkname=" target="_blank"><img src="https://static.addtoany.com/buttons/telegram.svg" width="32" height="32" style="background-color:royalblue"></a>
 <a href="https://www.addtoany.com/add_to/citeulike?linkurl=https%3A%2F%2Fantinita.github.io%2F&amp;linkname=" target="_blank"><img src="https://static.addtoany.com/buttons/citeulike.svg" width="32" height="32" style="background-color:royalblue"></a>
-<a href="https://www.addtoany.com/add_to/line?linkurl=https%3A%2F%2Fantinita.github.io%2F&amp;linkname=" target="_blank"><img src="https://static.addtoany.com/buttons/line.svg" width="32" height="32" style="background-color:royalblue"></a>
 <a href="https://www.addtoany.com/add_to/printfriendly?linkurl=https%3A%2F%2Fantinita.github.io%2F&amp;linkname=" target="_blank"><img src="https://static.addtoany.com/buttons/printfriendly.svg" width="32" height="32" style="background-color:royalblue"></a>
 <a href="https://www.addtoany.com/add_to/sina_weibo?linkurl=https%3A%2F%2Fantinita.github.io%2F&amp;linkname=" target="_blank"><img src="https://static.addtoany.com/buttons/sina_weibo.svg" width="32" height="32" style="background-color:royalblue"></a>
-<a href="https://www.addtoany.com/add_to/copy_link?linkurl=https%3A%2F%2Fantinita.github.io%2F&amp;linkname=" target="_blank"><img src="https://static.addtoany.com/buttons/link.svg" width="32" height="32" style="background-color:royalblue"></a>
-<a href="https://www.addtoany.com/add_to/google_gmail?linkurl=https%3A%2F%2Fantinita.github.io%2F&amp;linkname=" target="_blank"><img src="https://static.addtoany.com/buttons/gmail.svg" width="32" height="32" style="background-color:royalblue"></a>
-<a href="https://www.addtoany.com/add_to/reddit?linkurl=https%3A%2F%2Fantinita.github.io%2F&amp;linkname=" target="_blank"><img src="https://static.addtoany.com/buttons/reddit.svg" width="32" height="32" style="background-color:royalblue"></a>
 </div>
 <!-- AddToAny END -->
  
