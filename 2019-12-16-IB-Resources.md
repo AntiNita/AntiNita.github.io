@@ -1,6 +1,7 @@
 ---
 layout: article
 titles: IB Resource Collections
+tags: IB Resource 
 ---
 
 ## Introduction 
