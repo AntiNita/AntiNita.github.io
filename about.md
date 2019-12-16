@@ -26,7 +26,7 @@ titles: About Me
 key: page-about
 ---
 
-## Who am I
+## Who am I?
 
 A person.  
 A person born in Wuhan and grow up in Shanghai, China.  
@@ -40,14 +40,13 @@ A person can't be described here.
 
 *Thank you, USC college admission officers*
 
-
 1. What is your favorite snack? *Orange.*
 2. Best movie of all time: *Gone with the wind*
-3. If your life had a theme song, what would it be? I said "Save yourself", but it should be 
-4. Dream trip:
-5. What TV show will you binge watch next? 
-6. Which well-known person or fictional character would be your ideal roommate?
-7. Favorite book:
+3. If your life had a theme song, what would it be? I said "Save yourself" by Chainsmoker, but I prefer "Viva Voce" by Rocketboys
+4. Dream trip: Dublin with Baileys hot coffee
+5. What TV show will you binge watch next? I watch movies.
+6. Which well-known person or fictional character would be your ideal roommate? Sylvia Plath... No, I mean, Hermione 
+7. Favorite book: *The Testaments* by Margaret Atwood (constantly updated)
 
 
 
