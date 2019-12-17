@@ -1,6 +1,6 @@
 ---
 layout: article
-titles: About
+titles: 
   # @start locale config
   en      : &EN       About
   en-GB   : *EN
@@ -25,11 +25,10 @@ titles: About
   # @end locale config
 key: page-about
 ---
+
 # About
+
 ## Who am I?
-
-
-
 A person.  
 A person born in Wuhan and grow up in Shanghai, China.  
 A person who play the harmonica by self-studying, and dream of joining a jazz band.  
