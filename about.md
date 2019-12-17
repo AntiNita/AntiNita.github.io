@@ -25,7 +25,7 @@ titles: About
   # @end locale config
 key: page-about
 ---
-
+# About
 ## Who am I?
 
 
