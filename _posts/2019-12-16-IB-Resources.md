@@ -35,7 +35,8 @@ For this section, I will include the pdf of all the notes I made for paper 2, an
 ## Chinses A SL
 ## Chemistry SL 
 ## Extended Essay
+
+For the extended essay, I choose English A category 1. For this section I might include my end product if the external assessment is B (or above, but I guess I would get a B at best). Otherwise, I will just share some of the tips I found useful... 
 <p align="center">
 <img class="image image--md" src="/pic/ee.jpeg"/>
 </p>
-For the extended essay, I choose English A category 1. For this section I might include my end product if the external assessment is B (or above, but I guess I would get a B at best). Otherwise, I will just share some of the tips I found useful... 
