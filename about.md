@@ -28,7 +28,7 @@ key: page-about
 
 ## Who am I?
 
-<div>{%- include extensions/soundcloud.html id='509834508' -%}</div>
+
 
 A person.  
 A person born in Wuhan and grow up in Shanghai, China.  
@@ -50,6 +50,8 @@ A person can't be described here.
 
 **3. If your life had a theme song, what would it be?**    
 I said "Save yourself" by Chainsmoker, but I prefer "Viva Voce" by Rocketboys  
+<div>{%- include extensions/soundcloud.html id='509834508' -%}</div>
+<div>{%- include extensions/soundcloud.html id='186230858' -%}</div>
 
 **4. Dream trip:**   
 *Dublin with Baileys hot coffee*
