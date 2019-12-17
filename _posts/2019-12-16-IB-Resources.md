@@ -1,6 +1,6 @@
 ---
 layout: article
-titles: IB Resource Collections
+titles: Collection of Notes
 tags: IB Resource 
 ---
 
