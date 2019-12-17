@@ -27,6 +27,9 @@ key: page-about
 ---
 
 ## Who am I?
+
+<div>{%- include extensions/soundcloud.html id='509834508' -%}</div>
+
 A person.  
 A person born in Wuhan and grow up in Shanghai, China.  
 A person who play the harmonica by self-studying, and dream of joining a jazz band.  
