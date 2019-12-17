@@ -3,9 +3,9 @@ layout: article
 titles: Collection of Notes
 tags: IB Resource 
 article_header:
-	type: cover
-	image:
-		src: /pic/ib.png 
+  type: cover
+  image:
+    src: /ib.png
 ---
 
 ## Introduction 
