@@ -11,7 +11,7 @@ It was not until I found the notes from ibling that I recoganize the value of re
 <!--more-->
 
 
-![Image](src:/ib.png){:.border}
+![Image](/ib.png){:.border}
 
 I'm a diploma student, and my courses are:
 
