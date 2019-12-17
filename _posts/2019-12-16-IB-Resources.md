@@ -11,7 +11,7 @@ It was not until I found the notes from ibling that I recoganize the value of re
 <!--more-->
 
 
-<img class="image image--md" src="/ib.png"/>
+<img class="image image--sm" src="/ib.png"/>
 
 I'm a diploma student, and my courses are:
 
