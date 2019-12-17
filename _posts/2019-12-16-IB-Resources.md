@@ -2,16 +2,16 @@
 layout: article
 titles: Collection of Notes
 tags: IB Resource 
-article_header:
-  type: cover
-  image:
-    src: /ib.png
+
 ---
 
 ## Introduction 
 It was not until I found the notes from ibling that I recoganize the value of reading the others' notes, and creating my own. Hopefully this helps you as well. Will be updated until the final exam in May, 2019.
 
 <!--more-->
+
+
+![Image](src:/ib.png){:.border}
 
 I'm a diploma student, and my courses are:
 
