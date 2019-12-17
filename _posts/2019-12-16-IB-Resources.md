@@ -2,10 +2,8 @@
 layout: article
 titles: Collection of Notes
 tags: IB Resource 
-comment	: true
 article_header:
 	type: cover
-	align: center
 	image:
 		src: /pic/ib.png 
 ---
