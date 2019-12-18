@@ -3,7 +3,7 @@ title: Music Notes
 tags: Resource
 mode: immersive
 header:
-  theme: dark
+  theme: default
 article_header:
   type: cover
   image:
