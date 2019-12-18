@@ -8,8 +8,9 @@ header:
 article_header:
   type: overlay
   theme: dark
-  background_color: transparent
-	src: /pic/me.jpeg
+  background_color: '#cbdcde'
+  background_image: 
+    src: /pic/me.jpeg
 ---
 Welcome aboard, someone behind the screen! 
 
