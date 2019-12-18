@@ -2,7 +2,10 @@
 layout: article
 titles: Collection of Notes
 tags: IB Resource 
-
+aside:
+  toc: true
+sidebar:
+  nav: layouts
 ---
 <p align="center">
 <img class="image image--md" src="/pic/ib.png"/>
