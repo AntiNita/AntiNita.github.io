@@ -7,8 +7,7 @@ header:
 article_header:
   type: cover
   image:
-    src: /docs/assets/images/cover2.jpg
----
+    src: /pic/minnesota.jpg
 ---
 
 resource：*Music Theory* by George Thaddeus Jones  
