@@ -1,11 +1,9 @@
 ---
-layout: article
-titles: Collection of Notes
-tags: IB Resource 
-aside:
-  toc: true
-sidebar:
-  nav: layouts
+layout: articles
+title: Collection of Notes
+articles:
+  data_source: site.sample_page
+  show_excerpt: true
 ---
 <p align="center">
 <img class="image image--md" src="/pic/ib.png"/>
