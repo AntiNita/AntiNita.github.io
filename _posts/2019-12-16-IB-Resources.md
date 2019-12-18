@@ -1,15 +1,13 @@
 ---
 layout: articles
 title: Collection of Notes
-articles:
-  data_source: site.sample_page
-  show_excerpt: true
 ---
 <p align="center">
 <img class="image image--md" src="/pic/ib.png"/>
 </p>
 
 # IB Resources
+`links`{:.info}
 ## Introduction 
 It was not until I found the notes from ibling that I recoganize the value of reading the others' notes, and creating my own. Hopefully this helps you as well. Will be updated until the final exam in May, 2019.
 
