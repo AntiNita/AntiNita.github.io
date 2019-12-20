@@ -1,5 +1,5 @@
 ---
-title: Music Notes
+title: Music Notes Chapter 1
 tags: Resource
 mode: immersive
 header:
@@ -14,7 +14,9 @@ resource：*Music Theory* by George Thaddeus Jones
 <!--more-->
 
 {{TOC}}
-## Preface & Introduction
+
+
+# Preface & Introduction
 
 - No prerequisites
 - Covers: notation, terminology, reading and writing skills of harmony, analysis, and score reading
@@ -24,27 +26,42 @@ resource：*Music Theory* by George Thaddeus Jones
 
 ---
 
-## Part 1: Notation, Terminology, and Basic Theory
-### Chapter 1: Elementary Acoustics and the Properties of Sound
+# Part 1: Notation, Terminology, and Basic Theory
 
-- Vibration
-	- produced by oscillation of some elastic material
-	- compression and rarefaction of air
-	- *frequency*: number of vibrations per second
-		- *pitch* $\uparrow$ when frequency  $\uparrow$
-		- *amplitude* controls the *volume*
-	- Tones 
-		- **Pitch**: the relative sense of "high" or "low"
-		- **Duration**: the length of the sound or rhythm
-		- **Intensity**: the volume or degree of loudness
-		- **Timbre**: the distinctive quality of the sound.
-	- Classifications of musical instruments
-		- Vibrating strings:
-			- bowed （弓) instruments: violin, viola, cello, etc.
-			- plucked instruments: harp, harpsichord, guitar, lute, mandolin, banjo
-			- struck instruments: piano, clavichord, cimbalon 
+## Vibration
 
-![Figure1](music/Figure1.jpg){:class="img-responsive"}
+- produced by oscillation of some elastic material
+- compression and rarefaction of air
+- *frequency*: number of vibrations per second
+	- *pitch* $\uparrow$ when frequency  $\uparrow$
+	- *amplitude* controls the *volume*
+### Vibrating Strings
+
+- *Fundamental*: vibration of the entire length of the string 
+- *Partials*/*overtunes*: when string only vibrates on part of the length. 
+
+### Vibrating Air Columns
+
+- Instruments: Wood & Brass 
+	- wood: edge tone, single reed, doble reed
+	- brass: cup mouthpiece 
+
+
+<p align="center">
+<img class="image image--md" src="/music/Figure4.jpg"/>
+</p>
+
+- Pitch: controlled by length 
+	- wood: open up the wholes
+	- brass: increase by using valves 
+- Vibrate entirely (*fundamental*)
+## Definitions
+	- **Pitch**: the relative sense of "high" or "low"
+	- **Duration**: the length of the sound or rhythm
+	- **Intensity**: the volume or degree of loudness
+	- **Timbre**: the distinctive quality of the sound.
+
+
 
 <!-- AddToAny BEGIN -->
 <div>
@@ -57,4 +74,6 @@ resource：*Music Theory* by George Thaddeus Jones
 <a href="https://www.addtoany.com/add_to/sina_weibo?linkurl=https%3A%2F%2Fantinita.github.io%2F&amp;linkname=" target="_blank"><img src="https://static.addtoany.com/buttons/sina_weibo.svg" width="32" height="32" style="background-color:royalblue"></a>
 </div>
 <!-- AddToAny END -->
+
+
  
