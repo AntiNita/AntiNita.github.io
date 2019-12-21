@@ -41,4 +41,3 @@ For the extended essay, I choose English A category 1. For this section I might 
 <img class="image image--md" src="/pic/ee.jpeg"/>
 </p>
 
-<iframe height="800" allowTransparency="true" scrolling="no" style="display:block;min-width:100%;width:100px;border:none;overflow:auto;" frameborder="0" src="http://p79p4l8ss84m5a8u.mikecrm.com/HxXpeak"></iframe>
