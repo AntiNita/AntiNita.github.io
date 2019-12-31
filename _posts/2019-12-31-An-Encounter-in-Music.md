@@ -1,7 +1,7 @@
 ---
 title: My Encounter in Music
 tags: Article
---
+---
 
 As I played my favorite tunes, nearly everyone passed quickly.
 
